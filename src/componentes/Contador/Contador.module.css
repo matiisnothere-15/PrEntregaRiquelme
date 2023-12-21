@@ -1,0 +1,42 @@
+/* Modificando el estilo según tus indicaciones */
+.contenedor {
+  margin: 20px;
+  width: 200px;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  border: 1px solid black;
+  background-color: rgba(128, 128, 128, 0.2); /* Fondo gris transparente */
+  color: black; /* Letras blancas */
+}
+
+.contenedorBotones {
+  display: flex;
+  align-items: center;
+}
+
+.boton {
+  width: 50px;
+  height: 25px;
+  margin: 9px;
+  border-radius: 5px;
+  border: 2px solid #000; /* Color del borde cambiado a negro */
+  background-color: #000; /* Fondo negro */
+  color: white; /* Letras blancas */
+}
+
+.contador {
+  text-align: center;
+}
+
+.botonAgregar {
+  width: 150px;
+  height: 25px;
+  border-radius: 5px;
+  border: 2px solid #000; /* Color del borde cambiado a negro */
+  background-color: #000; /* Fondo negro */
+  color: white; /* Letras blancas */
+}
