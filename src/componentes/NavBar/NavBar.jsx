@@ -10,6 +10,7 @@ function NavBar({ toggleSidebar }) {
         ☰
       </button>
       <div className={Clase.nombreTienda}>GAMAX</div>
+      
       <img src="" alt="" />
       <CarritoDeCompras />
       <Boton msj="Iniciar Sesion" clase="boton" />
