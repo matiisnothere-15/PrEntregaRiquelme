@@ -1,8 +1,8 @@
 /* Modificando el estilo según tus indicaciones */
 .contenedor {
   margin: 20px;
-  width: 200px;
-  height: 320px;
+  width: 250px;
+  height: 350px;
   display: flex;
   flex-direction: column;
   justify-content: center;
